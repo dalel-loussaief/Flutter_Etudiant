@@ -1,0 +1,51 @@
+{
+  "teste": [
+    {
+      "nom": "med salah",
+      "dateDeNaissance": "1990/05/15",
+      "adresse": "sfax",
+      "notes": [
+        85,
+        90,
+        78,
+        92
+      ],
+      "id": 1
+    },
+    {
+      "nom": "sami",
+      "dateDeNaissance": "1988/10/02",
+      "adresse": "Lille",
+      "notes": [
+        8,
+        9,
+        7,
+        9
+      ],
+      "id": 2
+    },
+    {
+      "nom": "meriem",
+      "dateDeNaissance": "1995-08-20",
+      "adresse": "sousse",
+      "notes": [
+        75,
+        82,
+        91,
+        87
+      ],
+      "id": 3
+    },
+    {
+      "nom": "dalel",
+      "dateDeNaissance": "8/7/2000",
+      "adresse": "nabeul",
+      "notes": [
+        20,
+        16,
+        17
+      ],
+      "id": 4
+    }
+  ]
+}
